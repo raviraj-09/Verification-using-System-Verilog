@@ -23,8 +23,10 @@ This repository contains **SystemVerilog-based verification examples and testben
 - Illustrates **assertions and coverage** for functional verification.
 - Includes **step-by-step simulation instructions**.
 
-## Getting Started
+## Author
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/verification-using-system-verilog.git
+**Ravi Raj**  
+VLSI Design Verification Trainee  
+
+[LinkedIn Profile](https://www.linkedin.com/in/ravi-raj-023a75253/)
+
