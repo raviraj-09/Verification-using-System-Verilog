@@ -25,6 +25,12 @@ An **8-to-1 MUX** selects **one of eight input lines** (`I0` to `I7`) based on a
 | 111              | I7       |
 
 
+<img width="404" height="817" alt="image" src="https://github.com/user-attachments/assets/1d026c18-1270-4010-ae38-3e2a71ccc09e" />
+
+<img width="1717" height="262" alt="image" src="https://github.com/user-attachments/assets/b34f2629-6d12-4605-8470-f892cbbff9af" />
+
+
+
 ## Author
 
 **Ravi Raj**  
