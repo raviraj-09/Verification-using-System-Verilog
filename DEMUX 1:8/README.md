@@ -27,3 +27,7 @@ Only one output line is active at a time depending on the select line combinatio
 ---
 
 
+![Screenshot 2025-10-05 184854](https://github.com/user-attachments/assets/117b1da9-def3-4d86-b46e-0a0eb51405ed)
+
+![Screenshot 2025-10-05 185038](https://github.com/user-attachments/assets/50c0e21e-3cb8-4bf0-abd4-5b5c74c47158)
+
