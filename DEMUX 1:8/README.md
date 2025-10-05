@@ -26,14 +26,4 @@ Only one output line is active at a time depending on the select line combinatio
 
 ---
 
-## Output 
-
-Time=0 | I=1 | S=000 | Y=00000001
-Time=10 | I=1 | S=001 | Y=00000010
-Time=20 | I=1 | S=010 | Y=00000100
-Time=30 | I=1 | S=011 | Y=00001000
-Time=40 | I=1 | S=100 | Y=00010000
-Time=50 | I=1 | S=101 | Y=00100000
-Time=60 | I=1 | S=110 | Y=01000000
-Time=70 | I=1 | S=111 | Y=10000000
 
