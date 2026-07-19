@@ -1,11 +1,4 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 9_Event_Constraint.sv
-// Description : Describe Condition based Constraint
-//               Initialize Range of Element using Event ->
-//********************************************
+
 
 class EventConst;
 
