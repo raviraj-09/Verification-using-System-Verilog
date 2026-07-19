@@ -1,11 +1,4 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 1_Basic_Randomization.sv
-// Description : Declare Random Varable using rand
-//               Randomize whole object using .randomize()
-//********************************************
+
 
 class Basic_Rand ;
   
