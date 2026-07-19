@@ -1,10 +1,4 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 11_Constraint_Mode.sv
-// Description : Demonstration of Constraint mode
-//********************************************
+
   
 program Constraint_Mode;
 
