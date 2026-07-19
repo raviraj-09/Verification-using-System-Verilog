@@ -1,11 +1,4 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 5_Weighted_Constraint_Rand.sv
-// Description : Distribute elements specific rand
-//               By using dist keyword
-//********************************************
+
 
 program Dist_rand;
 
