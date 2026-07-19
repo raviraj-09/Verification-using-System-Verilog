@@ -1,10 +1,4 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 7_Arrays_Rand.sv
-// Description : Randomization with Arrays
-//********************************************
+
 
 class Arrays_Rand;
 
