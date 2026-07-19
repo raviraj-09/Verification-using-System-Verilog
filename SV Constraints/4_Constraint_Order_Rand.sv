@@ -1,12 +1,4 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 4_Constraint_Order_Rand.sv
-// Description : Create a class with methods
-//               Create a object and initialize memory 
-//               Call methods using object
-//********************************************
+
 
 program Constraint_Order_Rand;
 
