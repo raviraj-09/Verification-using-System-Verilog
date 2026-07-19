@@ -1,10 +1,3 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 2_Basic_Constraints.sv
-// Description : Demonstrates Constraint Randomization
-//********************************************
 
 // Class definition
 class Const_Rand ;
