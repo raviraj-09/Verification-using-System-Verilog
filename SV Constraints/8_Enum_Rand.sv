@@ -1,10 +1,4 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 8_Enum_Rand.sv
-// Description : Randomization with enum type
-//********************************************
+
 
 
 class Enum_Rand;
