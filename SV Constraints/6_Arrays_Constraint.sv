@@ -1,10 +1,4 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 6_Arrays_Constraint.sv
-// Description : Describe Array property in constraint
-//********************************************
+
 
 class ArrayConst;
 
