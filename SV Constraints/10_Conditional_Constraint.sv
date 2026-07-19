@@ -1,10 +1,4 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 10_Conditional_Constraint.sv
-// Description : Demonstration of Conditional Constraints
-//********************************************
+
 
 class Conditional_Constraint;
     
