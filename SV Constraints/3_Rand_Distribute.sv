@@ -1,11 +1,4 @@
-//********************************************
-// (c) SION Semiconductors (P) Ltd, Bangalore
-// All rights reserved.
-//********************************************
-// Filename    : 3_Rand_Distribute.sv
-// Description : Distribute Value in Specific range using inside
-//               Exclusive Value over specific range using !
-//********************************************
+
 
 
 program Rand_Distribute;
